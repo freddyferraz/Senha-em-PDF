@@ -12,4 +12,8 @@
     <PackageReference Include="GroupDocs.Merger" Version="24.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Teste\" />
+  </ItemGroup>
+
 </Project>
