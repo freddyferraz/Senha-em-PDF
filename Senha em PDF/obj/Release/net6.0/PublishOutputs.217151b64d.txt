@@ -1,0 +1,29 @@
+C:\temp\Senha em PDF.exe
+C:\temp\Senha em PDF.dll
+C:\temp\Senha em PDF.deps.json
+C:\temp\Senha em PDF.runtimeconfig.json
+C:\temp\Senha em PDF.pdb
+C:\temp\GroupDocs.Merger.dll
+C:\temp\Microsoft.DotNet.PlatformAbstractions.dll
+C:\temp\Microsoft.Extensions.DependencyModel.dll
+C:\temp\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\Microsoft.Win32.SystemEvents.dll
+C:\temp\Newtonsoft.Json.dll
+C:\temp\SkiaSharp.dll
+C:\temp\System.Configuration.ConfigurationManager.dll
+C:\temp\System.Diagnostics.DiagnosticSource.dll
+C:\temp\System.Diagnostics.PerformanceCounter.dll
+C:\temp\System.Drawing.Common.dll
+C:\temp\System.Security.Cryptography.Pkcs.dll
+C:\temp\System.Security.Cryptography.ProtectedData.dll
+C:\temp\System.Security.Permissions.dll
+C:\temp\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\temp\runtimes\osx\native\libSkiaSharp.dylib
+C:\temp\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\temp\runtimes\win-x64\native\libSkiaSharp.dll
+C:\temp\runtimes\win-x86\native\libSkiaSharp.dll
+C:\temp\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\temp\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\temp\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\temp\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\temp\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

@@ -1,0 +1,40 @@
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\Senha em PDF.exe
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\Senha em PDF.deps.json
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\Senha em PDF.runtimeconfig.json
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\Senha em PDF.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\Senha em PDF.pdb
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\GroupDocs.Merger.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\SkiaSharp.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\Senha em PDF.csproj.AssemblyReference.cache
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\Senha em PDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\Senha em PDF.AssemblyInfoInputs.cache
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\Senha em PDF.AssemblyInfo.cs
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\Senha em PDF.csproj.CoreCompileInputs.cache
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\Senha em PDF.csproj.CopyComplete
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\Senha em PDF.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\refint\Senha em PDF.dll
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\Senha em PDF.pdb
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\Senha em PDF.genruntimeconfig.cache
+C:\Users\frodrigues\source\repos\C#\Senha em PDF\Senha em PDF\obj\Release\net6.0\ref\Senha em PDF.dll

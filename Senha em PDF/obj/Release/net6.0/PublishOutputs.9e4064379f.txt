@@ -1,0 +1,29 @@
+C:\temp\Senha PDF\Senha em PDF.exe
+C:\temp\Senha PDF\Senha em PDF.dll
+C:\temp\Senha PDF\Senha em PDF.deps.json
+C:\temp\Senha PDF\Senha em PDF.runtimeconfig.json
+C:\temp\Senha PDF\Senha em PDF.pdb
+C:\temp\Senha PDF\GroupDocs.Merger.dll
+C:\temp\Senha PDF\Microsoft.DotNet.PlatformAbstractions.dll
+C:\temp\Senha PDF\Microsoft.Extensions.DependencyModel.dll
+C:\temp\Senha PDF\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\Senha PDF\Microsoft.Win32.SystemEvents.dll
+C:\temp\Senha PDF\Newtonsoft.Json.dll
+C:\temp\Senha PDF\SkiaSharp.dll
+C:\temp\Senha PDF\System.Configuration.ConfigurationManager.dll
+C:\temp\Senha PDF\System.Diagnostics.DiagnosticSource.dll
+C:\temp\Senha PDF\System.Diagnostics.PerformanceCounter.dll
+C:\temp\Senha PDF\System.Drawing.Common.dll
+C:\temp\Senha PDF\System.Security.Cryptography.Pkcs.dll
+C:\temp\Senha PDF\System.Security.Cryptography.ProtectedData.dll
+C:\temp\Senha PDF\System.Security.Permissions.dll
+C:\temp\Senha PDF\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\temp\Senha PDF\runtimes\osx\native\libSkiaSharp.dylib
+C:\temp\Senha PDF\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\temp\Senha PDF\runtimes\win-x64\native\libSkiaSharp.dll
+C:\temp\Senha PDF\runtimes\win-x86\native\libSkiaSharp.dll
+C:\temp\Senha PDF\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\temp\Senha PDF\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\temp\Senha PDF\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\temp\Senha PDF\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\temp\Senha PDF\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
