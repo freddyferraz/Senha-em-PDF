@@ -6,14 +6,12 @@
     <RootNamespace>Senha_em_PDF</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Configurations>Debug;Release;Instalador</Configurations>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="GroupDocs.Merger" Version="24.3.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Teste\" />
   </ItemGroup>
 
 </Project>

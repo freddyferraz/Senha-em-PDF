@@ -3,12 +3,27 @@
  */
 using GroupDocs.Merger.Domain.Options;
 using GroupDocs.Merger;
-
-string filePath = @"C:\Users\frodrigues\Downloads\Teste\89246.pdf";
-
-using (Merger merger = new Merger(filePath))
+using System.IO;
+static void CriptografarPdf()
 {
-    AddPasswordOptions addOptions = new AddPasswordOptions("09202224633");
-    merger.AddPassword(addOptions);
-    merger.Save(@"C:\Users\frodrigues\Downloads\Teste\Frederico Hadan.pdf");
+    DirectoryInfo diretorio = new DirectoryInfo(@"C:\temp");
+
+    FileInfo[] Arquivos = diretorio.GetFiles("*.PDF*");
+
+    foreach (FileInfo file in Arquivos)
+    {
+        string filePath = file.FullName;
+        using (Merger merger = new Merger(filePath))
+        {
+            AddPasswordOptions addOptions = new AddPasswordOptions("09202224633");
+            merger.AddPassword(addOptions);
+            merger.Save(@"C:\temp\Frederico Hadan.pdf");
+            Console.WriteLine("Arquivo Criado com sucesso");
+        }
+    }
+
+    string opcaoEscolhida = Console.ReadLine()!;
 }
+
+CriptografarPdf();
+
