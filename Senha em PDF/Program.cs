@@ -8,8 +8,11 @@ static void CriptografarPdf()
 {
     DirectoryInfo diretorio = new DirectoryInfo(@"C:\temp");
 
-    FileInfo[] Arquivos = diretorio.GetFiles("*.PDF*");
+    var ext = new string[] { ".pdf",".PDF" };
 
+    FileInfo[] Arquivos = (from fi in diretorio.GetFiles() where ext.Contains(fi.Extension.ToUpper()) select fi).ToArray();
+
+    
     foreach (FileInfo file in Arquivos)
     {
         string filePath = file.FullName;
